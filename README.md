@@ -20,6 +20,8 @@
 * OKなら取り入れる。
 
 # 参考
-githubの基本運用フローが書いてあります。わかりやすいです。
-
+## githubの基本運用フローが書いてあります。わかりやすいです。
 http://kik.xii.jp/archives/179
+
+## このページも読んで損はない
+http://tech.admax.ninja/2014/10/08/how-to-write-wiki-of-github/
